@@ -6,11 +6,7 @@
 }
 
 body {
-  background: linear-gradient(
-    90deg,
-    rgb(180, 172, 235) 0%,
-    rgb(78, 88, 175) 100%
-  );
+  background-color:beige;
 }
 
 .todo-app {
